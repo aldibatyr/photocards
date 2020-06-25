@@ -49,6 +49,12 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>We need access to your camera to add images to photocards</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>We need to authenticate you in order to use this app</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need your location to add pins to the map</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
